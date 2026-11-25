@@ -1,12 +1,22 @@
-# 🎮 AluguelGames
+# AluguelGames
 
-Projeto desenvolvido durante o curso **Lógica de programação: praticando com desafios**, da Alura, com o objetivo de aprimorar os conhecimentos em lógica de programação e manipulação do DOM utilizando JavaScript.
+<div align="center">
 
-## 📋 Sobre o projeto
+Projeto desenvolvido durante os estudos de **Lógica de Programação** na Alura.
 
-O AluguelGames é um sistema de simulação de aluguel de jogos de tabuleiro, que permite ao usuário alugar e devolver jogos de forma interativa.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🚀 Funcionalidades
+</div>
+
+## Sobre o projeto
+
+O AluguelGames é um sistema interativo que simula o aluguel e a devolução de jogos de tabuleiro.
+
+O projeto foi desenvolvido durante o curso **Lógica de programação: praticando com desafios**, da Alura, com foco na manipulação do DOM e na aplicação dos fundamentos de JavaScript.
+
+## Funcionalidades
 
 - Aluguel e devolução de jogos.
 - Alteração dinâmica do texto e da cor dos botões.
@@ -14,46 +24,36 @@ O AluguelGames é um sistema de simulação de aluguel de jogos de tabuleiro, qu
 - Controle individual do status de cada jogo.
 - Atualização da interface sem recarregar a página.
 
-## 🛠️ Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
-
-## 📚 Conhecimentos adquiridos
-
-Durante o desenvolvimento deste projeto, pratiquei os seguintes conceitos:
+## Conhecimentos adquiridos
 
 - Manipulação do DOM.
 - Funções, parâmetros e argumentos.
 - Declaração de variáveis.
 - Template Strings.
-- Estruturas condicionais (if/else).
+- Estruturas condicionais (`if/else`).
 - `document.querySelector()`.
 - `document.getElementById()`.
 - `classList.contains()`.
 - `classList.add()`.
 - `classList.remove()`.
 - `innerHTML` e `textContent`.
-- Manipulação dinâmica de elementos HTML.
 
-## 💻 Como executar o projeto
+## Como executar
 
 1. Clone este repositório.
 2. Abra a pasta do projeto no Visual Studio Code.
-3. Execute o arquivo `index.html` no navegador ou utilize a extensão Live Server.
+3. Abra o arquivo `index.html` no navegador ou utilize a extensão Live Server.
 
-## 🎯 Objetivo do aprendizado
+## Objetivo do aprendizado
 
-Desenvolver a autonomia na resolução de problemas, compreender a lógica por trás do código e aplicar na prática os conhecimentos adquiridos durante o curso.
+Aprimorar a lógica de programação, desenvolver autonomia na resolução de problemas e compreender o funcionamento do código por meio da prática.
 
-## 👨‍💻 Autor
+## Autor
 
-Desenvolvido por Leonardo Hanry.
+**Leonardo Hanry**
 
 Estudante de Análise e Desenvolvimento de Sistemas e Analista de Suporte de TI.
 
 ---
 
-📖 Projeto desenvolvido para fins educacionais durante os estudos na Alura.
+Projeto desenvolvido para fins educacionais durante os estudos na Alura.
